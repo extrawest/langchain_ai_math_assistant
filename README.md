@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## PROJECT INFO
-- **Langchain AI Agent with Tools to solve Math Problems**
+- **Langchain AI Agent with Tools to Solve Math Problems**
 - Streamlit for interactive app and slick UI
-- **Chatbot with RAG capabilities. Works with Gemma2-9b via Groq API**
+- **Chatbot with math-solving capabilities. Works with Gemma2-9b via Groq API**
 
 ## Features
 - Langchain AI Chatbot
